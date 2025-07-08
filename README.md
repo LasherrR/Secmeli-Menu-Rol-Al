@@ -47,7 +47,7 @@
 > Aşağıda botun örnek bir embed ve select menu görünümü yer alacaktır.
 
 ```
-[ https://media.discordapp.net/attachments/1392127771098218497/1392130150858227815/image.png?ex=686e69bc&is=686d183c&hm=74db88911b2fc54d362a29499a3b87b23abb620c38212c92192482a814b916b2&=&format=webp&quality=lossless ]
+https://media.discordapp.net/attachments/1392127771098218497/1392130150858227815/image.png?ex=686e69bc&is=686d183c&hm=74db88911b2fc54d362a29499a3b87b23abb620c38212c92192482a814b916b2&=&format=webp&quality=lossless
 ```
 
 ---
