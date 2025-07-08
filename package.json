@@ -1,0 +1,11 @@
+{
+  "name": "takim-rol-bot",
+  "version": "1.0.0",
+  "main": "takim-rol-menu.js",
+  "scripts": {
+    "start": "node takim-rol-menu.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+} 
